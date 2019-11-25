@@ -1,4 +1,4 @@
-# aircnc
+# Aircnc
 
 ## Desenvolvido o back-end e o mobile da semana omnistack da RocketSeat
 
@@ -13,3 +13,5 @@
 - Hooks
 - AsyncStorage
 - Axios
+
+> Que a força esteja com você
