@@ -5,8 +5,8 @@
 ### No back-end
 
 - Express
-- Mongodb
-- Upload de imagens
+- Mongoose
+- Multer
 
 ### No mobile
 
