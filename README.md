@@ -1,6 +1,6 @@
 ## Aircnc - Desenvolvido o back-end e o mobile da semana omnistack da Rocketseat
 
-## No back-end
+### Back-end
 
 - Express
 - Mongoose
@@ -10,7 +10,7 @@ Para rodar o Backend
 - Npm install ou Yarn para instalar as dependências
 - Npm run dev ou yarn dev
 
-## No mobile
+### Mobile
 
 - Hooks
 - AsyncStorage
