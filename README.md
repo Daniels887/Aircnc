@@ -10,8 +10,8 @@ Para rodar o Backend
 - Npm run dev ou yarn dev
 
 ### Mobile
-<img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/ListApp.png" alt="List" width="300" height="400" /> <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/reservaApp.png" alt="Reserva" width="300" height="400" />
-<img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/Alert.png" alt="Alert" width="300" height="400" />
+<img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/ListApp.png" alt="List" width="270" height="400" /> <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/reservaApp.png" alt="Reserva" width="270" height="400" />
+<img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/Alert.png" alt="Alert" width="270" height="400" />
 ---
 - Hooks
 - AsyncStorage
