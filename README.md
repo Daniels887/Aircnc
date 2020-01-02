@@ -5,6 +5,7 @@
 - Express
 - Mongoose
 - Multer
+- Socket.io
 
 Para rodar o Backend
 - Npm install ou Yarn para instalar as dependências
@@ -12,12 +13,13 @@ Para rodar o Backend
 
 ### Mobile
 
-<img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/Login.png" alt="Login" width="270" height="400" /><img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/ListApp.png" alt="List" width="270" height="400" /> <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/reservaApp.png" alt="Reserva" width="270" height="400" />
-<img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/Alert.png" alt="Alert" width="270" height="400" />
+<img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/Login.png" alt="Login" width="250" height="400" /><img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/ListApp.png" alt="List" width="250" height="400" /> <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/reservaApp.png" alt="Reserva" width="250" height="400" />
+<img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/Alert.png" alt="Alert" width="250" height="400" /> <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/ReserveConfirmada.png" alt="Alert" width="250" height="400" />
 
 - Hooks
 - AsyncStorage
 - Axios
+- Socket.io-client
 
 Para rodar o Mobile
 - Npm install ou yarn para instalar as dependências
