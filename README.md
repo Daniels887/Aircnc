@@ -1,6 +1,6 @@
 ## Aircnc - Desenvolvido o back-end e o mobile da semana omnistack da Rocketseat
 
-### Back-end 
+### Back-end Techs
 
 - Express
 - Mongoose
@@ -15,6 +15,8 @@ Para rodar o Backend
 
 <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/Login.png" alt="Login" width="250" height="400" /><img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/ListApp.png" alt="List" width="250" height="400" /> <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/reservaApp.png" alt="Reserva" width="250" height="400" />
 <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/Alert.png" alt="Alert" width="250" height="400" /> <img src="https://github.com/Daniels887/Aircnc/blob/master/mobile/Telas/ReserveConfirmada.png" alt="Alert" width="250" height="400" />
+
+### Techs
 
 - Hooks
 - AsyncStorage
